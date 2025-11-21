@@ -1,1 +1,1 @@
-"# sigmoid_task" 
+This project is a first attempt tech task of Sigmoid.
